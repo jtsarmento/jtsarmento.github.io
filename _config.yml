@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" 
+minimal_mistakes_skin    : "mint"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "J.T. Sarmento"
   avatar           : "images/biopic.png"
-  bio              : "Aspiring Data Scientist and Life Enthusiast, after work you can find me playing water polo or surfing!"
+  bio              : "Former D1 Water Polo Player | MSBA UC Irvine 2020 | Enthusiast of data and life, after work you can find me playing water polo or surfing!"
   location         : "Orange County"
   email            : "jsarment@uci.edu"
   links:
@@ -104,7 +104,7 @@ author:
       url: "mailto:jsarment@uci.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jtsarmento"    
+      url: "https://linkedin.com/in/jtsarmento"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jtsarmento"
@@ -120,7 +120,7 @@ footer:
       url: "mailto:jsarment@uci.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jtsarmento"    
+      url: "https://linkedin.com/in/jtsarmento"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jtsarmento"
@@ -267,7 +267,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  
+
  # _pages
   - scope:
       path: ""
