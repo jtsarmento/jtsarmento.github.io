@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "J.T. Sarmento"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/biopic.png"
   bio              : "Aspiring Data Scientist and Life Enthusiast, after work you can find me playing water polo or surfing!"
   location         : "Orange County"
   email            : "jsarment@uci.edu"
