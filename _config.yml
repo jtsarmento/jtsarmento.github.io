@@ -104,7 +104,7 @@ author:
       url: "mailto:jsarment@uci.edu"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jtsarmento    
+      url: "https://linkedin.com/in/jtsarmento"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jtsarmento"
@@ -120,7 +120,7 @@ footer:
       url: "mailto:jsarment@uci.edu"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jtsarmento    
+      url: "https://linkedin.com/in/jtsarmento"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jtsarmento"
